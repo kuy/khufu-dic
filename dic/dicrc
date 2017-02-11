@@ -1,0 +1,7 @@
+cost-factor = 800
+bos-feature = BOS/EOS
+output-format-type=khufu
+
+node-format-khufu = %m\t%H\n
+unk-format-khufu = %m\n
+eos-format-khufu = \n
