@@ -1,6 +1,6 @@
 # Mecab dictionary for Artificial Khufu language (偽クフ語)
 
-A mecab dictionary for Artificial Khufu language (偽クフ語) used in the book [白と黒のとびら](http://www.utp.or.jp/bd/4-13-063357-0.html).
+A [mecab](https://github.com/taku910/mecab) dictionary for Artificial Khufu language (偽クフ語) used in the book [白と黒のとびら](http://www.utp.or.jp/bd/4-13-063357-0.html).
 
 ## Build
 
