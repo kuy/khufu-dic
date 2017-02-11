@@ -1,0 +1,10 @@
+cost-factor = 800
+bos-feature = BOS/EOS,*
+eval-size = 1
+unk-eval-size = 1
+config-charset = UTF-8
+
+output-format-type=khufu
+node-format-khufu = %m\t%H\n
+bos-format-khufu  =
+eos-format-khufu  = EOS\n
